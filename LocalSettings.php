@@ -30,7 +30,7 @@ $wgMetaNamespace = "UN_Wiki";
 $wgScriptPath = "/mediawiki";
 
 ## The protocol and server name to use in fully-qualified URLs
-$wgServer = "http://localhost";
+$wgServer = "https://php-flabby-pilot-webphpopensource419917.codeanyapp.com";
 
 ## The URL path to static resources (images, scripts, etc.)
 $wgResourceBasePath = $wgScriptPath;
@@ -53,7 +53,7 @@ $wgEmailAuthentication = true;
 
 ## Database settings
 $wgDBtype = "mysql";
-$wgDBserver = "https://php-flabby-pilot-webphpopensource419917.codeanyapp.com";
+$wgDBserver = "localhost";
 $wgDBname = "mediawiki";
 $wgDBuser = "root";
 $wgDBpassword = "";
