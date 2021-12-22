@@ -53,7 +53,7 @@ $wgEmailAuthentication = true;
 
 ## Database settings
 $wgDBtype = "mysql";
-$wgDBserver = "localhost";
+$wgDBserver = "https://php-flabby-pilot-webphpopensource419917.codeanyapp.com";
 $wgDBname = "mediawiki";
 $wgDBuser = "root";
 $wgDBpassword = "";
