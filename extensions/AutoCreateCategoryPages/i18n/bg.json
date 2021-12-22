@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"DCLXVI",
+			"StanProg",
+			"Vodnokon4e"
+		]
+	},
+	"autocreatecategorypages-desc": "Автоматично създава липсващите категории при съхраняване",
+	"autocreatecategorypages-stub": "Тази страница е категория.\nНа нея са показани всички страници в категория „$1“ както и всички подкатегории на категория „$1“, ако има такива.",
+	"autocreatecategorypages-createdby": "Създадена автоматично с помощта на разширението AutoCreateCategoryPages.",
+	"autocreatecategorypages-editor": "Автоматичен създател на категории"
+}

@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"BaRaN6161 TURK",
+			"Karduelis",
+			"Vito Genovese"
+		]
+	},
+	"autocreatecategorypages-desc": "Kaydettiğinizde otomatik olarak eksik kategori sayfaları oluşturun",
+	"autocreatecategorypages-stub": "Bu bir kategori sayfası.\n\"$1\" kategorisindeki tüm sayfaları ve varsa \"$1\" kategorisindeki tüm alt kategorileri listeler.",
+	"autocreatecategorypages-createdby": "Otomatik olarak AutoCreateCategoryPages uzantısı tarafından oluşturulmuştur.",
+	"autocreatecategorypages-editor": "Otomatik kategori oluşturucusu"
+}

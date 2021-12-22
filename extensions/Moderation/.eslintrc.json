@@ -1,0 +1,25 @@
+{
+	"root": true,
+	"extends": [
+		"wikimedia/client",
+		"wikimedia/jquery",
+		"wikimedia/mediawiki"
+	],
+	"rules": {
+		// These rules are not applicable,
+		// because some of our scripts MUST interfere with third-party widgets.
+		"no-jquery/no-global-selector": "off",
+
+		// Don't want to disable console.log() with "why not preloaded" results
+		// (this information is helpful for users who are trying to determine why).
+		"no-console": "off",
+
+		// Don't want to apply this. Current placement of "var" significantly improves readability.
+		"vars-on-top": "off",
+		"one-var": "off",
+
+		// TODO: missing documentation: this can be fixed
+		"mediawiki/msg-doc": "warn",
+		"valid-jsdoc": "off"
+	}
+}

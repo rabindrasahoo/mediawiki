@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kghbln",
+			"Metalhead64",
+			"Purodha"
+		]
+	},
+	"numeralpha-desc": "Ermöglicht das Fortführen von Zahlen, römischen Zahlen und Buchstaben in aufsteigender Reihenfolge",
+	"ext-numeralpha-list-type-numeral": "numerisch",
+	"ext-numeralpha-list-type-alpha": "alphabetisch",
+	"ext-numeralpha-list-type-roman": "römisch",
+	"ext-numeralpha-list-type-label": "Typ",
+	"ext-numeralpha-list-set-label": "Ausgangswert",
+	"ext-numeralpha-list-pad-length": "Auffülllänge",
+	"ext-numeralpha-list-pad-char": "Auffüllzeichen",
+	"ext-numeralpha-list-prefix": "Präfix",
+	"ext-numeralpha-list-suffix": "Suffix",
+	"ext-numeralpha-list-level-label": "Ebene",
+	"ext-numeralpha-list-level-prefix-label": "Ebenenpräfix",
+	"ext-numeralpha-list-format-label": "Format",
+	"ext-numeralpha-list-format-standard": "Standard",
+	"ext-numeralpha-list-format-outline": "Gliederung"
+}

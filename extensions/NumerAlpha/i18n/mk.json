@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bjankuloski06"
+		]
+	},
+	"numeralpha-desc": "Дава начини на внесување накачувачки броев, букви и римски бројки",
+	"ext-numeralpha-list-type-numeral": "бројчено",
+	"ext-numeralpha-list-type-alpha": "азбучно",
+	"ext-numeralpha-list-type-roman": "римски",
+	"ext-numeralpha-list-type-label": "тип",
+	"ext-numeralpha-list-set-label": "задај",
+	"ext-numeralpha-list-pad-length": "должина на потполнката",
+	"ext-numeralpha-list-pad-char": "знак за потполнка",
+	"ext-numeralpha-list-prefix": "претставка",
+	"ext-numeralpha-list-suffix": "наставка",
+	"ext-numeralpha-list-level-label": "ниво",
+	"ext-numeralpha-list-level-prefix-label": "претставка за ниво",
+	"ext-numeralpha-list-format-label": "Формат",
+	"ext-numeralpha-list-format-standard": "стандарден",
+	"ext-numeralpha-list-format-outline": "основни црти"
+}

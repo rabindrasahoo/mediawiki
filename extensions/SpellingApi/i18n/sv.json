@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lokal Profil",
+			"Technic2",
+			"WikiPhoenix"
+		]
+	},
+	"spellingapi-desc": "Tillgängliggör en API-modul för stavningskontroll",
+	"apihelp-spellingapi-description": "Kontrollerar stavningen för en textsträng.",
+	"apihelp-spellingapi-param-text": "Text, stavningen som du vill kontrollera.",
+	"apihelp-spellingapi-param-langcode": "Språkkod. Standard är koden för wikins innehållsspråk."
+}
